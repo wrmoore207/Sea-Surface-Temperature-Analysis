@@ -12,27 +12,27 @@ This project explores changes in sea surface temperatures (SST) over more than a
 
 1. **Long-Term Trends**  
    A line plot illustrating the yearly average sea surface temperatures from 1905 to 2019, showing how temperatures have evolved over time.  
-   ![Long-Term Trends]('Figs\Long-Term-Trends-Line.svg')
+   ![Long-Term Trends](Figs/Long-Term-Trends-Line.svg)
 
 2. **Seasonality Analysis**  
    A bar chart showing average temperatures across months, highlighting seasonal patterns.  
-   ![Seasonality Analysis]('Figs\Monthly Averages.svg')
+   ![Seasonality Analysis](Figs/Monthly-Averages.svg)
 
 3. **Monthly Variability**  
    A boxplot illustrating the range of temperatures for each month, showcasing variability within the seasons.  
-   ![Monthly Variability]('Figs\Monthly-Variation.svg')
+   ![Monthly Variability](Figs/Monthly-Variation.svg)
 
 4. **10-Year Rolling Averages**  
    A smoothed trendline to highlight long-term changes in sea surface temperatures over a decade.  
-   ![10-Year Rolling Averages]('Figs\Long-Term-Trends-wRolling.svg')
+   ![10-Year Rolling Averages](Figs/Long-Term-Trends-wRolling.svg)
 
 5. **Anomalies and Outliers**  
    A scatter plot showing years with significant temperature anomalies, overlayed with thresholds for detection.  
-   ![Anomalies and Outliers]('Figs\AnomolyScatter.svg')
+   ![Anomalies and Outliers](Figs/AnomalyScatter.svg)
 
 6. **Yearly Heatmap**  
    A heatmap visualizing month-by-month temperatures for each year, showcasing seasonal and inter-annual variability.  
-   ![Yearly Heatmap]('Figs\Heatmap.svg')
+   ![Yearly Heatmap](Figs/Heatmap.svg)
 
 ## Future Work
 - Incorporate external datasets to correlate anomalies with climate cycles (e.g., ENSO).
